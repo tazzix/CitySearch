@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">City Search</string>
+    <string name="search_hint">Search cities</string>
+    <string name="search_button">Search</string>
+    <string name="back">Back</string>
+    <string name="general_error">An error has occurred</string>
+</resources>
